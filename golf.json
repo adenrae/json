@@ -5,28 +5,32 @@
 			"distance" : 6732.0,
 			"difficulty" : 76.8,
 			"location" : "Bandon, Oregon",
-			"image" : "bandon.jpeg"
+			"image" : "bandon.jpeg",
+			"site" : "https://www.bandondunesgolf.com/"
 		},
 		{
 			"name" : "Whistling Straits",
 			"distance" : 7501.0,
 			"difficulty" : 77.2,
 			"location" : "Haven, Wisconsin",
-			"image" : "whistling.jpeg"
+			"image" : "whistling.jpeg",
+			"site" : "https://www.destinationkohler.com/golf/whistling-straits"
 		},
 		{
 			"name" : "Bethpage Black",
 			"distance" : 7468.0,
 			"difficulty" : 77.5,
 			"location" : "Farmingdale, New York",
-			"image" : "bethpage.jpeg"
+			"image" : "bethpage.jpeg",
+			"site" : "https://www.bethpagegolfcourse.com/"
 		},
 		{
 			"name" : "Cypress Point",
 			"distance" : 6554.0,
 			"difficulty" : 73.1,
 			"location" : "Pebble Beach, California",
-			"image" : "cypress.jpeg"
+			"image" : "cypress.jpeg",
+			"site" : "http://www.montereypeninsulagolf.com/Cypress-Point-Club"
 		}
 	]
 }
