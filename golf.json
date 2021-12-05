@@ -1,0 +1,32 @@
+{
+	"Golf Courses" : [
+		{
+			"name" : "Bandon Dunes",
+			"distance" : 6732.0,
+			"difficulty" : 76.8,
+			"location" : "Bandon, Oregon",
+			"image" : "banden.jpeg"
+		},
+		{
+			"name" : "Whistling Straits",
+			"distance" : 7501.0,
+			"difficulty" : 77.2,
+			"location" : "Haven, Wisconsin",
+			"image" : "whistling.jpeg"
+		},
+		{
+			"name" : "Bethpage Black",
+			"distance" : 7468.0,
+			"difficulty" : 77.5,
+			"location" : "Farmingdale, New York",
+			"image" : "bethpage.jpeg"
+		},
+		{
+			"name" : "Cypress Point",
+			"distance" : 6554.0,
+			"difficulty" : 73.1,
+			"location" : "Pebble Beach, California",
+			"image" : "cypress.jpeg"
+		}
+	]
+}
